@@ -1,0 +1,436 @@
+{
+  "users": [
+    {
+      "email": "Giangle96bg@gmail.com",
+      "password": "$2a$10$IruQ6/JpWvKAVKL.IekPJ.1p2TEQgdCqsDa3w0LgxH6.uKOp2pUHy",
+      "phone": "0965725856",
+      "id": 1,
+      "role": 1
+    },
+    {
+      "email": "giang@gmail.com",
+      "password": "$2a$10$uI21UTWJHz2w4FTBxyzge.MtOj14gY59MDZ3KIc.wmrPFSlkP.E1m",
+      "phone": "0522032955",
+      "id": 2
+    },
+    {
+      "email": "giang2@gmail.com",
+      "password": "$2a$10$bGh9v/1LFttF4CQsrpKoLehzM0lMxgt/cDDerGjtoIGW/rzzyU9Za",
+      "phone": "0342540932",
+      "id": 3
+    },
+    {
+      "email": "giang1@gmail.com",
+      "password": "$2a$10$Wo2/dODL9TUCBPUhy40xA.0iyg9swOhpxdY31vJ3CJm3IfrcbmDA6",
+      "phone": "0522032955",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "name": "Samsung Galaxy S22 Ultra 5G",
+      "originalPrice": "30990000",
+      "sellerPrice": "27990000",
+      "description": "Galaxy S22 Ultra 5G chiếc smartphone cao cấp nhất trong bộ 3 Galaxy S22 series mà Samsung đã cho ra mắt. Tích hợp bút S Pen hoàn hảo trong thân máy, trang bị vi xử lý mạnh mẽ cho các tác vụ sử dụng vô cùng mượt mà và nổi bật hơn với cụm camera không viền độc đáo mang đậm dấu ấn riêng.",
+      "longDescription":"Sở hữu một diện mạo đầy nổi bật Galaxy S22 Ultra 5G được kế thừa form thiết kế từ những dòng Note trước đây của hãng đem đến cho bạn có cảm giác vừa mới lạ vừa hoài niệm. Trọng lượng của máy 228 g cho cảm giác cầm nắm đầm tay, khi cầm máy trần thì hơi có cảm giác dễ trượt <img src='https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-10-2.jpg' max-width='100%' style='margin: 0 auto;' > Phần mặt lưng điện thoại được làm nhám nên hạn chế tốt việc bám dấu vân tay, có thiết kế cũng khá đơn giản nhưng vẫn toát lên vẻ sang trọng và cao cấp của chiếc máy. Cụm camera sau trên Galaxy S22 Ultra 5G được thiết kế trần tạo cảm giác gọn gàng và cũng tạo nên một điểm nhấn độc đáo cho chiếc máy. <img src='https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-11-2.jpg' max-width='100%' style='margin: 0 auto;' >' ",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/235838/TimerThumb/samsung-galaxy-s22-ultra.jpeg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/235838/samsung-galaxy-s22-ultra-1-1.jpg"
+      },
+      "id": 1,
+      "rate" : "4"
+    },
+    {
+      "name": "iPhone 11",
+      "originalPrice": "14990000",
+      "sellerPrice": "12790000",
+      "description": "Apple đã chính thức trình làng bộ 3 siêu phẩm iPhone 11, trong đó phiên bản iPhone 11 64GB có mức giá rẻ nhất nhưng vẫn được nâng cấp mạnh mẽ như iPhone Xr ra mắt trước đó.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/153856/TimerThumb/iphone-11-(48).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/153856/iphone-11-den-1-1-1-org.jpg"
+      },
+      "id": 2
+      ,
+      "rate" : "4"
+    },
+    {
+      "name": "OPPO Reno7 Z 5G",
+      "originalPrice": "10490000",
+      "sellerPrice": "",
+      "description": "OPPO đã trình làng mẫu Reno7 Z 5G với thiết kế OPPO Glow độc quyền, camera mang hiệu ứng như máy DSLR chuyên nghiệp cùng viền sáng kép, máy có một cấu hình mạnh mẽ và đạt chứng nhận xếp hạng A về độ mượt",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/271717/TimerThumb/oppo-reno7-z-(2).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/271717/TimerThumb/oppo-reno7-z-(2).jpg"
+      },
+      "id": 3
+      ,
+      "rate" : "5"
+    },
+    {
+      "name": "Realme C35 64GB",
+      "originalPrice": "4290000",
+      "sellerPrice": "",
+      "description": "Điện thoại Realme C35 thuộc phân khúc giá rẻ được nhà Realme cho ra mắt với thiết kế trẻ trung, dung lượng pin lớn cùng camera hỗ trợ nhiều tính năng. Đây sẽ là thiết bị liên lạc, giải trí và làm việc ổn định,… cho các nhu cầu sử dụng của bạn.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/261888/realme-c35-thumb-new-600x600.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/261888/realme-c35-den-11.jpg"
+      },
+      "id": 4
+      ,
+      "rate" : "3"
+    },
+    {
+      "name": "Xiaomi Redmi Note 11",
+      "originalPrice": "4690000",
+      "sellerPrice": "4390000",
+      "description": "Điện thoại Redmi được mệnh danh là dòng sản phẩm quốc dân ngon - bổ  - rẻ của Xiaomi và Redmi Note 11 (4GB/64GB) cũng không phải ngoại lệ, máy sở hữu một hiệu năng ổn định, màn hình 90 Hz mượt mà, cụm camera AI đến 50 MP cùng một mức giá vô cùng tốt.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/269831/Xiaomi-redmi-note-11-black-600x600.jpeg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/269831/xiaomi-redmi-note-11-1-3.jpg"
+      },
+      "id": 5
+      ,
+      "rate" : "4.5"
+    },
+    {
+      "name": "Samsung Galaxy A13 4GB ",
+      "originalPrice": "4690000",
+      "sellerPrice": "",
+      "description": "Nhằm mang trải nghiệm tốt hơn trên dòng sản phẩm giá rẻ, Samsung cho ra mắt Galaxy A13 4G với một hiệu năng ổn định, camera chụp ảnh sắc nét và viên pin khủng đáp ứng nhu cầu sử dụng cả ngày cho bạn cùng một mức giá trang bị cực kỳ phải chăng.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/262402/Samsung-Galaxy-A13-cam-thumb-600x600.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/262402/samsung-galaxy-a13-den-1.jpg"
+      },
+      "id": 6
+      ,
+      "rate" : "4"
+    },
+    {
+      "name": "Xiaomi Redmi Note 11S 5G",
+      "originalPrice": "6490000",
+      "sellerPrice": "",
+      "description": "Tại sự kiện ra mắt sản phẩm mới diễn ra hôm 29/3, Điện thoại Xiaomi đã ra mắt Redmi Note 11S 5G toàn cầu. Thiết bị là một bản nâng cấp đáng giá so với Redmi Note 11S 4G, cùng xem máy có gì đặc biệt thôi nào.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/272668/TimerThumb/272668.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/272668/xiaomi-redmi-note-11s-5g-1.jpg"
+      },
+      "id": 7,
+      "rate" : "4"
+    },
+    {
+      "name": "iPhone 13 Pro Max 128GB",
+      "originalPrice": "33990000",
+      "sellerPrice": "28190000",
+      "description": "Điện thoại iPhone 13 Pro Max 128 GB - siêu phẩm được mong chờ nhất ở nửa cuối năm 2021 đến từ Apple. Máy có thiết kế không mấy đột phá khi so với người tiền nhiệm, bên trong đây vẫn là một sản phẩm có màn hình siêu đẹp, tần số quét được nâng cấp lên 120 Hz mượt mà, cảm biến camera có kích thước lớn hơn, cùng hiệu năng mạnh mẽ với sức mạnh đến từ Apple A15 Bionic, sẵn sàng cùng bạn chinh phục mọi thử thách.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/230529/TimerThumb/iphone-13-pro-max-(8).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/230529/iphone-13-pro-max-1-3.jpg"
+      },
+      "id": 8,
+      "rate" : "4"
+    },
+    {
+      "name": "Samsung Galaxy A23 4GB",
+      "originalPrice": "5690000",
+      "sellerPrice": "",
+      "description": "Samsung Galaxy A23 4GB sở hữu bộ thông số kỹ thuật khá ấn tượng trong phân khúc, máy có một hiệu năng ổn định, cụm 4 camera thông minh cùng một diện mạo trẻ trung phù hợp cho mọi đối tượng người dùng.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/262650/TimerThumb/samsung-galaxy-a23-(2).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/262650/samsung-galaxy-a23-1-1.jpg"
+      },
+      "id": 9,
+      "rate" : "4"
+    },
+    {
+      "name": "Vivo Y15s",
+      "originalPrice": "3490000",
+      "sellerPrice": "3290000",
+      "description": "Vivo vừa mang một chiến binh mới đến phân khúc tầm trung giá rẻ có tên Vivo Y15s, một sản phẩm sở hữu khá nhiều ưu điểm như thiết kế đẹp, màn hình lớn, camera kép, pin cực trâu và còn rất nhiều điều thú vị khác đang chờ đón bạn.",
+      "longDescription": "",
+      "category": "Điện thoại",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/42/249720/Vivo-y15s-2021-xanh-den-660x600.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/42/249720/vivo-y15s-2021-d-1.jpg"
+      },
+      "id": 10,
+      "rate" : "5"
+    },
+    {
+      "name": "Laptop Acer Nitro 5 Gaming AN515 45 R6EV R5 5600H/8GB/512GB/144Hz/4GB GTX1650/Win11 (NH.QBMSV.006) ",
+      "originalPrice": "23990000",
+      "sellerPrice": "19190000",
+      "description": "Phá cách với diện mạo mạnh mẽ đến từ laptop Acer Nitro 5 Gaming AN515 45 R6EV R5 5600H (NH.QBMSV.006) mang đến cho người dùng hiệu năng ổn định, hỗ trợ bạn trong mọi tác vụ hằng ngày hay chiến những trận game cực căng một cách mượt mà.",
+      "longDescription": "",
+      "category": "Laptop",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/263980/TimerThumb/acer-nitro-5-gaming-an515-45-r6ev-r5-nhqbmsv006-(20).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/44/263980/acer-nitro-5-gaming-an515-45-r6ev-r5-nhqbmsv006-1.jpg"
+      },
+      "id": 12
+      ,
+      "rate" : "2"
+    },
+    {
+      "name": "Laptop Lenovo Gaming Legion 5 15ITH6 i7 11800H/16GB/512GB/4GB RTX3050Ti/165Hz/Win11 (82JK00FNVN)",
+      "originalPrice": "39990000",
+      "sellerPrice": "33990000",
+      "description": "Phong cách thiết kế độc đáo, trẻ trung cùng hiệu năng mạnh mẽ vượt trội của card màn hình NVIDIA RTX hội tụ trong chiếc laptop Lenovo Gaming Legion 5 15ITH6 i7 (82JK00FNVN) hứa hẹn sẽ cân mọi tựa game đình đám cũng như sẵn sàng hỗ trợ bạn xử lý các tác vụ nặng.",
+      "longDescription": "",
+      "category": "Laptop",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/272005/lenovo-gaming-legion-5-15ith6-i7-82jk00fnvn-180322-100552-600x600.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/44/272005/lenovo-gaming-legion-5-15ith6-i7-82jk00fnvn-1.jpg"
+      },
+      "id": 13
+      ,
+      "rate" : "4"
+    },
+    {
+      "name": "Laptop Lenovo IdeaPad Gaming 3 15IHU6 i5 11300H/8GB/512GB/4GB GTX1650/120Hz/Win11 (82K10178VN) ",
+      "originalPrice": "20990000",
+      "sellerPrice": "17490000",
+      "description": "Laptop Lenovo IdeaPad Gaming 3 15IHU6 i5 (82K10178VN) thật sự làm mình hài lòng khi với mức giá chưa đầy 20 triệu mà vẫn có thể cân được mọi tác vụ từ học tập, văn phòng đến chiến game giải trí nhờ con chip Intel Gen 11 kết hợp cùng card đồ họa NVIDIA GeForce GTX mạnh mẽ.",
+      "longDescription": "",
+      "category": "Laptop",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/279407/TimerThumb/lenovo-ideapad-gaming-3-15ihu6-i5-82k10178vn-(2).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/44/279407/lenovo-ideapad-gaming-3-15ihu6-i5-82k10178vn-1-1.jpg"
+      },
+      "id": 14
+      ,
+      "rate" : "5"
+    },
+    {
+      "name": "Laptop MSI Gaming Bravo 15 B5DD R7 5800H/8GB/512GB/4GB RX5500M/Balo/Chuột/Win11 (278VN) ",
+      "originalPrice": "20490000",
+      "sellerPrice": "",
+      "description": "Kiểu dáng đậm chất gaming cùng những chi tiết nổi bật, laptop MSI Gaming Bravo 15 B5DD R7 5800H (278VN) mang trong mình sức mạnh hiệu năng vượt bậc, đánh bại mọi đối thủ, đưa bạn đến gần hơn với sự thành công.",
+      "longDescription": "",
+      "category": "Laptop",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/260352/TimerThumb/msi-gaming-bravo-15-b5dd-r7-278vn-(4).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/44/260352/msi-gaming-bravo-15-b5dd-r7-278vn-1-1.jpg"
+      },
+      "id": 15
+      ,
+      "rate" : "5"
+    },
+    {
+      "name": "Laptop Acer Aspire 7 Gaming A715 75G 58U4 i5 10300H/8GB/512GB/4GB GTX1650/Win11 (NH.Q97SV.004)",
+      "originalPrice": "21990000",
+      "sellerPrice": "16490000",
+      "description": "Bạn nghĩ đến năm 2022 thì CPU Intel Gen 10 sẽ không đủ khả năng đáp ứng nhu cầu xử lý công việc? Laptop Acer Aspire 7 Gaming A715 75G 58U4 i5 (NH.Q97SV.004) với vẻ ngoài mạnh mẽ và cấu hình ấn tượng, hứa hẹn sẽ đem đến những giây phút chiến game hào hứng với mức giá dễ tiếp cận dành cho game thủ.",
+      "longDescription": "",
+      "category": "Laptop",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/44/271042/TimerThumb/acer-aspire-7-gaming-a715-75g-58u4-i5-nhq97sv004-(2).jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/44/271042/acer-aspire-7-gaming-a715-75g-58u4-i5-nhq97sv004-1-1.jpg"
+      },
+      "id": 16
+      ,
+      "rate" : "4"
+    },
+    {
+      "name": "AirPods 2 Wireless charge Apple MRXJ2",
+      "originalPrice": "5590000",
+      "sellerPrice": "3490000",
+      "description": "AirPods 2 - một sản phẩm đã từng làm mưa làm gió trước khi người “anh em” AirPods Pro ra mắt. Đến thời điểm hiện tại, mặc dù không còn hot như Airpods Pro, nhưng Tai nghe Bluetooth AirPods 2 Wireless charge Apple MRXJ2 vẫn còn nhiều đặc điểm khiến sản phẩm này trở nên hấp dẫn và vẫn giữ được vị trí của mình với một lượng fan nhất định.",
+      "longDescription": "",
+      "category": "Tai nghe",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/54/236025/tai-nghe-bluetooth-airpods-2-wireless-charge-mrxj2-thumb-600x600.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/54/236025/airpods-2-wireless-charge-apple-mrxj2-1-org.jpg"
+      },
+      "id": 17
+      ,
+      "rate" : "4"
+    },
+    {
+      "name": "AirPods 3 Apple MME73 Trắng",
+      "originalPrice": "5490000",
+      "sellerPrice": "4790000",
+      "description": "Airpods 3 có thiết kế tương tự như AirPods Pro nhưng không còn phần eartips, đường viền và thân ngắn hơn cho âm thanh truyền tải đến tai tối ưu. Bề mặt tai nghe Bluetooth Apple phủ sắc trắng thời thượng, được làm từ các vật liệu tái chế với độ bền cao, bảo vệ môi trường sống của con người",
+      "longDescription": "",
+      "category": "Tai nghe",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/54/250701/airpods-3-hop-sac-khong-day-thumb-600x600.jpeg",
+        "image": "https://cdn.tgdd.vn/Products/Images/54/250701/airpods-3-hop-sac-khong-day-0.jpg"
+      },
+      "id": 18
+      ,
+      "rate" : "5"
+    },
+    {
+      "name": "True Wireless Mozard Air 600",
+      "originalPrice": "950000",
+      "sellerPrice": "665000",
+      "description": "Kích thước tai nghe Mozard nhỏ nhắn từ housing đến hộp sạc đem lại sự tiện lợi cho việc di chuyển và bảo quản cả trong trường hợp đeo tai nghe trực tiếp trên tai hay vẫn để tai nghe còn nguyên trong hộp sạc, thiết kế không chiếm diện tích trong balo, túi xách, bạn có thể mang theo bên mình khi đi làm, đi học, phượt hay công tác đều rất dễ dàng.",
+      "longDescription": "",
+      "category": "Tai nghe",
+      "images": {
+        "thumbnail": "https://cdn.tgdd.vn/Products/Images/54/245808/bluetooth-true-wireless-mozard-air-6-ava-1-600x600.jpg",
+        "image": "https://cdn.tgdd.vn/Products/Images/54/245808/bluetooth-true-wireless-mozard-air-6-xanh-2-org.jpg"
+      },
+      "id": 19
+      ,
+      "rate" : "4"
+    }
+  ],
+  "accessory" :[
+    {
+      "id":"1",
+      "name" :"Phụ kiện Apple",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803677/hff2hezz291udargjm1t.png"
+    },
+    {
+      "id":"2",
+      "name" :"Dán màn hình",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803699/cyi0iqtemnwyantrjquj.png"
+    },
+    {
+      "id":"3",
+      "name" :"Ốp lưng - Bao da",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803715/zbydey9vmeghjrbqj4dt.png"
+    },
+    {
+      "id":"4",
+      "name" :"Cáp, sạc",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803729/gnbzxrms6tq3d25ydwrt.png"
+    },
+    {
+      "id":"5",
+      "name" :"Pin dự phòng",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803742/ql9vbve5bcs8n7gksmhk.png"
+    },
+    {
+      "id":"6",
+      "name" :"Thiết bị mạng",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803757/ivgebd757kjioip2irjr.png"
+    },
+    {
+      "id":"7",
+      "name" :"Camera",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803809/yumz46hvqxaop2j3lcno.png"
+    },
+    {
+      "id":"8",
+      "name" :"Chuột, bàn phím",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803841/sowlne2twm6dcankuemt.png"
+    },
+    {
+      "id":"9",
+      "name" :"Thẻ nhớ, USB",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803858/gjfvgsriy9cl9lr7wkjo.png"
+    },
+    {
+      "id":"10",
+      "name" :"Apple Care",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803872/k4j1toilfwyfqptg7aiv.png"
+    },
+    {
+      "id":"11",
+      "name" :"Dây đeo Airtag",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803890/hs1gqscsrc78nczdw7pr.png"
+    },
+    {
+      "id":"12",
+      "name" :"Gaming Gear",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803904/s3pnrpnblhfsmiwigrrt.png"
+    },
+    {
+      "id":"13",
+      "name" :"Phụ kiện chụp ảnh",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803926/kzi2xwvbc0gqz7vkk6d4.png"
+    },
+    {
+      "id":"14",
+      "name" :"Phụ kiện Laptop",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803939/f8qqk6k67njssbih98fv.png"
+    },
+    {
+      "id":"15",
+      "name" :"Quạt mini",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803953/npvf03uymbzy8ovopyjn.png"
+    },
+    {
+      "id":"16",
+      "name" :"Balo, túi chống sốc",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803972/vtxkdwq5cpf8ejuxrcgy.png"
+    },
+    {
+      "id":"17",
+      "name" :"Dây đeo đồng hồ",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803985/tgezmc9om9u3qsyieb9i.png"
+    },
+    {
+      "id":"18",
+      "name" :"Ổ cứng đi động",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659803999/bukllhfxrzzgo9xu2olc.png"
+    } 
+  ],
+  "accessories" : 
+  [
+    {
+      "id":"1",
+      "name" :"PC ráp sẵn CellphoneS",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659804013/xzjrs3nfetsgp4lbu6n6.png"
+    },
+    {
+      "id":"2",
+      "name" :"CPU",
+      "image": "https://banner2.cleanpng.com/20180204/bye/kisspng-intel-core-i5-central-processing-unit-lga-1155-cpu-processor-5a77a7c636ba01.6294338515177911742242.jpg"
+    },
+    {
+      "id":"3",
+      "name" :"Mainboard",
+      "image": ""
+    },
+    {
+      "id":"5",
+      "name" :"RAM",
+      "image": ""
+    },
+    {
+      "id":"4",
+      "name" :"Ổ cứng",
+      "image": "https://res.cloudinary.com/dtd8tra0o/image/upload/v1659805175/fkdnpqi5nwgolxeepxoy.png"
+    },
+    {
+      "id":"6",
+      "name" :"Card màn hình",
+      "image": ""
+    },
+    {
+      "id":"7",
+      "name" :"Nguồn máy tính",
+      "image": ""
+    },
+    {
+      "id":"8",
+      "name" :"Tản nhiệt",
+      "image": ""
+    },
+    {
+      "id":"9",
+      "name" :"Case máy tính",
+      "image": ""
+    }
+  ]
+}
